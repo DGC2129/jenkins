@@ -26,9 +26,9 @@ THE SOFTWARE.
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.jenkins-ci</groupId>
-    <artifactId>jenkins</artifactId>
-    <version>1.36</version>
+    <groupId>DGC</groupId>
+    <artifactId>Demo</artifactId>
+    <version>1.0-SNAPSHOT</version>
   </parent>
 
   <groupId>org.jenkins-ci.main</groupId>
